@@ -1,0 +1,1 @@
+export const motion=Object.freeze({revealDistance:24,revealDuration:800,revealThreshold:.15,revealStagger:100,parallaxRange:16,desktopQuery:'(min-width: 901px)',microDuration:240,ease:'cubic-bezier(.16,1,.3,1)'});

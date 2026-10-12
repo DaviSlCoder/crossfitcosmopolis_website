@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crossfit-cosmopolis-box.pastel-angel-1142.chatgpt.site/sitemap.xml
